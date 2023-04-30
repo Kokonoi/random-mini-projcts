@@ -6,7 +6,6 @@ The to-do list project has the following features:
 <ul><li>
 Add new tasks to the list</li>
 <li>Mark tasks as complete</li>
-<li>Remove completed tasks</li>
 <li>Store tasks in local storage, so they persist even after the user closes the browser window</li>
 </ul>
 <h3>Getting Started</h3>
