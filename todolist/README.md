@@ -5,12 +5,12 @@ This is a simple to-do list project created with HTML, CSS, and JavaScript. The 
 The to-do list project has the following features:
 <ul><li>
 Add new tasks to the list</li>
-<li>Mark tasks as completeli></li>
-<li>Remove completed tasksli></li>
-<li>Store tasks in local storage, so they persist even after the user closes the browser windowli></li>
+<li>Mark tasks as complete</li>
+<li>Remove completed tasks</li>
+<li>Store tasks in local storage, so they persist even after the user closes the browser window</li>
 </ul>
 <h3>Getting Started</h3>
-To use the to-do list project, simply download or clone the repository, and open index.html in your web browser.
+To use the to-do list project, download or clone the repository (you need to have <a href="https://nodejs.org/">node.js</a> installed).
 
 Contributing
 If you would like to contribute to the project, please fork the repository and submit a pull request. Contributions are always welcome, and any feedback or suggestions are greatly appreciated.
