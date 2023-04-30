@@ -12,5 +12,5 @@ Add new tasks to the list</li>
 <h3>Getting Started</h3>
 To use the to-do list project, download or clone the repository (you need to have <a href="https://nodejs.org/">node.js</a> installed).
 
-Contributing
+<h3>Contributing</h3>
 If you would like to contribute to the project, please fork the repository and submit a pull request. Contributions are always welcome, and any feedback or suggestions are greatly appreciated.
