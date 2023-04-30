@@ -3,11 +3,12 @@ This is a simple to-do list project created with HTML, CSS, and JavaScript. The 
 <hr>
 <h3>Project Features</h3>
 The to-do list project has the following features:
-Add new tasks to the list
-Mark tasks as complete
-Remove completed tasks
-Store tasks in local storage, so they persist even after the user closes the browser window
-
+<ul><li>
+Add new tasks to the list</li>
+<li>Mark tasks as completeli></li>
+<li>Remove completed tasksli></li>
+<li>Store tasks in local storage, so they persist even after the user closes the browser windowli></li>
+</ul>
 <h3>Getting Started</h3>
 To use the to-do list project, simply download or clone the repository, and open index.html in your web browser.
 
