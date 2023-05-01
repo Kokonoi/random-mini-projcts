@@ -5,7 +5,7 @@ Simon Says is a classic memory game that has been enjoyed by children and adults
 The game is played in rounds. Each round, Simon (the computer) will show a sequence of colors by lighting up the corresponding buttons. The player must then repeat the sequence by clicking the buttons in the same order. If the player successfully repeats the sequence, Simon will add another color to the sequence and the player must repeat the longer sequence. If the player makes a mistake, the game is over.
 
 <h3>Installation</h3>
-To install and run the game locally, follow these steps:
+<p>To install and run the game locally, follow these steps:</p>
 
 <ol>
 <li>Clone the repository</li>
