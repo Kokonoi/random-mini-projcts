@@ -4,7 +4,7 @@ This repository contains a collection of small, standalone projects that I have 
 <h3>Installation</h3>
 <p>To install and run any of the projects locally, follow these steps:</p>
 <ol>
-<li>Clone the repository: git clone <code>https://github.com/Kokonoi/random-mini-projects.git<code></li>
+<li>Clone the repository: git clone <code>https://github.com/Kokonoi/random-mini-projects.git</code></li>
 <li>Open the project directory for the project you want to run: cd project-directory</li>
 <li>Open the index.html file in your web browser.</li>
 </ol>
