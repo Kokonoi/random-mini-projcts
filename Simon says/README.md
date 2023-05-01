@@ -7,11 +7,11 @@ The game is played in rounds. Each round, Simon (the computer) will show a seque
 <h3>Installation</h3>
 To install and run the game locally, follow these steps:
 
-<ul>
+<ol>
 <li>Clone the repository</li>
 <li>Open the project directory: cd  Simon\ says/</li>
 <li>Open the index.html file in your web browser.</li>
-</ul>
+</ol>
 
 <h3>Contributing</h3>
 Contributions to the project are welcome! If you have an idea for an improvement or bug fix, please open an issue or submit a pull request.
