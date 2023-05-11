@@ -9,7 +9,7 @@ The game is played in rounds. Each round, Simon (the computer) will show a seque
 
 <ol>
 <li>Clone the repository</li>
-<li>Open the project directory: cd  Simon\ says/</li>
+<li>Open the project directory: <code>cd  Simon\ says/</code></li>
 <li>Open the index.html file in your web browser.</li>
 </ol>
 
