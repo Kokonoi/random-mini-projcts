@@ -12,7 +12,7 @@ To start a new game, simply reload the page.
 <p>To install and run the game locally, follow these steps:</p>
 <ol>
 <li>Clone the repository</li>
-<li>Open the project directory: cd Dice\ game/</li>
+<li>Open the project directory: <code>cd Dice\ game/</code></li>
 <li>Open the index.html file in your web browser.</li>
 </ol>
 <h3>Contributing</h3>

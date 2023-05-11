@@ -13,7 +13,7 @@ Press different keys to create your own drum beats and rhythms.
 
 <ol>
 <li>Clone the repository</li>
-<li>Open the project directory: cd Drum\ Kit/</li>
+<li>Open the project directory: <code>cd Drum\ Kit/</code></li>
 <li>Open the index.html file in your web browser.</li>
 </ol>
 <h3>Customization</h3>
